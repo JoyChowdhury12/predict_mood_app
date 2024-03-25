@@ -55,7 +55,7 @@ class _MyMoodPageState extends State<MyMoodPage> {
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.black26,
+                  backgroundColor: Colors.white,
                 ),
                 child: Text('Happy'),
                 onPressed: () {
@@ -67,7 +67,7 @@ class _MyMoodPageState extends State<MyMoodPage> {
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.black26,
+                  backgroundColor: Colors.white,
                 ),
                 child: Text('Sad'),
                 onPressed: () {
@@ -79,7 +79,7 @@ class _MyMoodPageState extends State<MyMoodPage> {
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.black26,
+                  backgroundColor: Colors.white,
                 ),
                 child: Text('Angry'),
                 onPressed: () {
@@ -96,7 +96,7 @@ class _MyMoodPageState extends State<MyMoodPage> {
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.black26,
+                  backgroundColor: Colors.white,
                 ),
                 child: Text('Laugh'),
                 onPressed: () {
@@ -109,7 +109,7 @@ class _MyMoodPageState extends State<MyMoodPage> {
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.black26,
+                  backgroundColor: Colors.white,
                 ),
                 child: Text('Romantic'),
                 onPressed: () {
